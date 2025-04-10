@@ -22,5 +22,5 @@ Este projeto é uma implementação completa de um token ERC20 chamado **MeuToke
 ### 1. Clone o projeto
 
 ```bash
-git clone https://github.com/seu-usuario/meu-token-hardhat.git
+git clone https://github.com/wertherm/PolygonTest.git
 cd meu-token-hardhat
