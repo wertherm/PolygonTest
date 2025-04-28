@@ -14,6 +14,7 @@ Este projeto é uma implementação completa de um token ERC20 chamado **MeuToke
 - [Chai](https://www.chaijs.com/) + [Mocha](https://mochajs.org/) (para testes)
 - [dotenv](https://www.npmjs.com/package/dotenv) (para segurança com variáveis de ambiente)
 - Rede: [Polygon Mumbai Testnet](https://docs.polygon.technology/tools/matic-js/overview/)
+- Infura: [Config](https://archive.trufflesuite.com/guides/using-infura-custom-provider/)
 
 ---
 
